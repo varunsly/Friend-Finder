@@ -18,7 +18,7 @@
 
 The **Use Case Diagram** showcases the functionalities available to users and admins, highlighting key actions like user matching, profile updates, and system maintenance.
 
-![image]((https://user-images.githubusercontent.com/55794720/199174627-a4482c37-79d4-4a6f-bc57-a1a9277a9ef0.png))
+![image](https://github.com/varunsly/Friend-Finder/blob/main/FriendFinder/UserDiagram.png)
 
 ---
 
